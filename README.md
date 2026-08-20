@@ -1,36 +1,163 @@
-<!-- =========================
-     HERO SECTION
-========================= -->
+# 👋 Hi, I'm Taranjeet Singh
 
-<h1 align="center">
-  👋 Hi, I'm Taranjeet Singh
-</h1>
+### 🎓 BCA Student | ☁️ Cloud Computing | ⚙️ DevOps | 🐧 Linux
 
-<h3 align="center">
-  BCA Student | Cloud Computing | DevOps
-</h3>
-
-<p align="center">
-  🐧 Linux &nbsp; | &nbsp;
-  ☁️ Cloud Computing &nbsp; | &nbsp;
-  ⚙️ DevOps &nbsp; | &nbsp;
-  🔀 Git & GitHub
+<p align="left">
+  <img src="https://img.shields.io/badge/BCA-Punjabi%20University-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cloud-Computing-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DevOps-Learning-2496ED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Cloud+Computing+%7C+DevOps;Linux+%7C+Git+%7C+Docker;Learning+%7C+Building+%7C+Improving" />
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm **Taranjeet Singh**, a BCA student from **Punjabi University**.
+
+I'm passionate about **Cloud Computing, DevOps, Linux, automation,
+and modern IT technologies**.
+
+Currently, I'm doing an internship in **Cloud Computing + DevOps at
+TechCADD, Mohali**, where I'm developing practical knowledge of
+DevOps tools, Linux, cloud infrastructure and automation.
+
+### 🚀 My Current Focus
+
+- ☁️ Cloud Computing
+- ⚙️ DevOps
+- 🐧 Linux
+- 🔀 Git & GitHub
+- 🐳 Docker
+- 🔄 CI/CD
+- 💻 Bash Scripting
+- 🔧 Jenkins
+- 🌐 Networking
+
+---
+
+## 🎓 Education
+
+### Bachelor of Computer Applications (BCA)
+
+**Punjabi University**
+
+Currently pursuing my BCA and developing my technical skills
+alongside practical DevOps learning.
+
+---
+
+## 💼 Internship
+
+### Cloud Computing + DevOps Intern
+
+**TechCADD — Mohali**
+
+During my internship, I am learning and practicing:
+
+- 🐧 Linux Administration
+- ☁️ Cloud Computing
+- 🔀 Git & GitHub
+- ⚙️ DevOps Fundamentals
+- 🔄 CI/CD
+- 🐳 Docker
+- 🔧 Jenkins
+- 💻 Bash Scripting
+- 🚀 Application Deployment
+- 🤖 Automation
+
+---
+
+## 🛠️ Technology Stack
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform">
+
 </p>
 
-<p align="center">
+### 🐧 Linux & Scripting
 
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+<p align="left">
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<img src="https://skillicons.dev/icons?i=linux,bash">
+
+</p>
+
+### 🔧 Development & Version Control
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,html,css">
 
 </p>
 
 ---
+
+## 🚀 Projects
+
+### 🐧 Linux Shell Scripts
+
+Basic Bash scripting projects covering:
+
+- File creation
+- File management
+- Directory management
+- Conditions
+- User information
+- Basic automation
+
+---
+
+### ⚙️ DevOps Practice Lab
+
+Hands-on practice with:
+
+- Linux
+- Git
+- GitHub
+- CI/CD
+- Shell scripting
+- DevOps workflows
+
+---
+
+### 🌐 University Website
+
+A simple university website created using:
+
+- HTML
+- CSS
+- JavaScript
+
+### Features
+
+- 🏫 University information
+- 📄 Document submission
+- 📊 Result checking
+- 👨‍🎓 Student section
+
+---
+
+## 📚 Currently Learning
+
+```text
+Linux
+   ↓
+Git & GitHub
+   ↓
+DevOps
+   ↓
+Docker
+   ↓
+CI/CD
+   ↓
+Jenkins
+   ↓
+Cloud Computing
+   ↓
+AWS
+   ↓
+Terraform
