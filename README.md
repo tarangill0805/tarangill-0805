@@ -1,163 +1,123 @@
-# 👋 Hi, I'm Taranjeet Singh
+<!-- =====================================================
+     HEADER
+===================================================== -->
 
-### 🎓 BCA Student | ☁️ Cloud Computing | ⚙️ DevOps | 🐧 Linux
-
-<p align="left">
-  <img src="https://img.shields.io/badge/BCA-Punjabi%20University-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cloud-Computing-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/DevOps-Learning-2496ED?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:1e40af,100:2563eb&text=Taranjeet%20Singh&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Linux&descAlignY=60&descSize=18"/>
 </p>
 
----
 
-## 👨‍💻 About Me
+<!-- =====================================================
+     INTRO
+===================================================== -->
 
-Hi! I'm **Taranjeet Singh**, a BCA student from **Punjabi University**.
+<h2 align="center">
+  👋 Hello, I'm Taranjeet Singh
+</h2>
 
-I'm passionate about **Cloud Computing, DevOps, Linux, automation,
-and modern IT technologies**.
+<p align="center">
+  <b>BCA Student</b> •
+  <b>Cloud Computing</b> •
+  <b>DevOps</b> •
+  <b>Linux</b>
+</p>
 
-Currently, I'm doing an internship in **Cloud Computing + DevOps at
-TechCADD, Mohali**, where I'm developing practical knowledge of
-DevOps tools, Linux, cloud infrastructure and automation.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Learning+Cloud+Computing+%E2%98%81%EF%B8%8F;Exploring+DevOps+%E2%9A%99%EF%B8%8F;Building+with+Linux+%F0%9F%90%A7;Learning+Automation+%F0%9F%94%84;Always+Learning+%7C+Always+Building"/>
+</p>
 
-### 🚀 My Current Focus
+<br>
 
-- ☁️ Cloud Computing
-- ⚙️ DevOps
-- 🐧 Linux
-- 🔀 Git & GitHub
-- 🐳 Docker
-- 🔄 CI/CD
-- 💻 Bash Scripting
-- 🔧 Jenkins
-- 🌐 Networking
+<p align="center">
 
----
+  <img src="https://img.shields.io/badge/BCA-Punjabi%20University-2563EB?style=for-the-badge">
 
-## 🎓 Education
+  <img src="https://img.shields.io/badge/Intern-TechCADD%20Mohali-0F766E?style=for-the-badge">
 
-### Bachelor of Computer Applications (BCA)
-
-**Punjabi University**
-
-Currently pursuing my BCA and developing my technical skills
-alongside practical DevOps learning.
-
----
-
-## 💼 Internship
-
-### Cloud Computing + DevOps Intern
-
-**TechCADD — Mohali**
-
-During my internship, I am learning and practicing:
-
-- 🐧 Linux Administration
-- ☁️ Cloud Computing
-- 🔀 Git & GitHub
-- ⚙️ DevOps Fundamentals
-- 🔄 CI/CD
-- 🐳 Docker
-- 🔧 Jenkins
-- 💻 Bash Scripting
-- 🚀 Application Deployment
-- 🤖 Automation
-
----
-
-## 🛠️ Technology Stack
-
-### ☁️ Cloud & DevOps
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform">
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-7C3AED?style=for-the-badge">
 
 </p>
 
-### 🐧 Linux & Scripting
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=linux,bash">
-
-</p>
-
-### 🔧 Development & Version Control
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,html,css">
-
-</p>
 
 ---
 
-## 🚀 Projects
+# 👨‍💻 About Me
 
-### 🐧 Linux Shell Scripts
+<table>
+<tr>
 
-Basic Bash scripting projects covering:
+<td width="65%">
 
-- File creation
-- File management
-- Directory management
-- Conditions
-- User information
-- Basic automation
+I'm **Taranjeet Singh**, a BCA student at
+**Punjabi University** with a strong interest in
+**Cloud Computing and DevOps**.
+
+Currently, I'm doing a **Cloud Computing + DevOps
+internship at TechCADD, Mohali**, where I'm developing
+practical knowledge of Linux, Git, cloud concepts,
+automation and DevOps workflows.
+
+I believe in **learning by doing** — building small
+projects, practicing commands, solving problems and
+continuously improving my technical skills.
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws,bash" width="220">
+
+<br><br>
+
+☁️ Cloud
+
+⚙️ DevOps
+
+🐧 Linux
+
+🔄 Automation
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
-### ⚙️ DevOps Practice Lab
+# 🎓 Education
 
-Hands-on practice with:
+### Bachelor of Computer Applications
 
-- Linux
-- Git
-- GitHub
-- CI/CD
-- Shell scripting
-- DevOps workflows
+🎓 **Punjabi University**
 
----
+Currently pursuing my **BCA** while developing practical
+skills in Cloud Computing and DevOps.
 
-### 🌐 University Website
-
-A simple university website created using:
-
-- HTML
-- CSS
-- JavaScript
-
-### Features
-
-- 🏫 University information
-- 📄 Document submission
-- 📊 Result checking
-- 👨‍🎓 Student section
 
 ---
 
-## 📚 Currently Learning
+# 💼 Experience
+
+## ☁️ Cloud Computing + DevOps Intern
+
+### TechCADD — Mohali
+
+Currently learning and practicing:
 
 ```text
-Linux
-   ↓
-Git & GitHub
-   ↓
-DevOps
-   ↓
-Docker
-   ↓
-CI/CD
-   ↓
-Jenkins
-   ↓
-Cloud Computing
-   ↓
-AWS
-   ↓
-Terraform
+🐧 Linux Administration
+        ↓
+🔀 Git & GitHub
+        ↓
+☁️ Cloud Computing
+        ↓
+⚙️ DevOps
+        ↓
+🐳 Docker
+        ↓
+🔄 CI/CD
+        ↓
+🔧 Jenkins
+        ↓
+🏗️ Infrastructure & Automation
