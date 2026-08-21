@@ -1,16 +1,32 @@
 <!-- =====================================================
-     PREMIUM HEADER
+     🔥 PREMIUM FUTURISTIC HEADER
 ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0f172a,70:1e3a8a,100:2563eb&text=TARANJEET%20SINGH&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=☁️%20Cloud%20%7C%20⚙️%20DevOps%20%7C%20🐧%20Linux%20%7C%20🌐%20Web%20Design%20%7C%20📈%20Digital%20Marketing&descAlignY=62&descSize=17&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,25:020617,50:0f172a,75:1d4ed8,100:38bdf8&text=TARANJEET%20SINGH&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=☁️%20CLOUD%20%7C%20⚙️%20DEVOPS%20%7C%20🐧%20LINUX%20%7C%20🌐%20WEB%20DESIGN%20%7C%20📈%20DIGITAL%20MARKETING&descAlignY=62&descSize=17&animation=fadeIn&stroke=38BDF8&strokeWidth=1"/>
 </p>
 
+<!-- =====================================================
+     👑 FUTURISTIC NAME DESIGN
+===================================================== -->
+
+<h1 align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=1&pause=100000&color=38BDF8&center=true&vCenter=true&width=850&lines=TARANJEET+SINGH"/>
+
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=850&lines=Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Linux+%26+Automation+Learner+%F0%9F%90%A7;Web+Designer+%F0%9F%8C%90;Digital+Marketing+%26+SEO+Explorer+%F0%9F%93%88;BCA+Student+%F0%9F%8E%93;Learning+Today.+Building+Tomorrow.+%F0%9F%9A%80"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=CBD5E1&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Linux+%26+Automation+Learner+%F0%9F%90%A7;Web+Designer+%F0%9F%8C%90;Digital+Marketing+%26+SEO+Explorer+%F0%9F%93%88;BCA+Student+%F0%9F%8E%93;Learning+Today.+Building+Tomorrow.+%F0%9F%9A%80"/>
+
 </p>
 
 <br>
+
+<!-- =====================================================
+     💎 PREMIUM BADGES
+===================================================== -->
 
 <p align="center">
 
@@ -19,6 +35,22 @@
 <img src="https://img.shields.io/badge/☁️_Intern-TechCADD_Mohali-0F766E?style=for-the-badge&labelColor=020617"/>
 
 <img src="https://img.shields.io/badge/⚙️_Focus-Cloud_&_DevOps-7C3AED?style=for-the-badge&labelColor=020617"/>
+
+<img src="https://img.shields.io/badge/🌐_Web-Design-06B6D4?style=for-the-badge&labelColor=020617"/>
+
+<img src="https://img.shields.io/badge/📈_Digital-Marketing-16A34A?style=for-the-badge&labelColor=020617"/>
+
+</p>
+
+<br>
+
+<!-- =====================================================
+     🌌 PROFILE DIVIDER
+===================================================== -->
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:38BDF8,50:2563EB,100:7C3AED" width="85%"/>
 
 </p>
 
@@ -72,7 +104,9 @@ I enjoy turning ideas into real projects, experimenting with technology, solving
 <br><br>
 
 <img src="https://img.shields.io/badge/LEARN-0f172a?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/BUILD-1e3a8a?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/CREATE-2563eb?style=for-the-badge"/>
 
 </td>
@@ -149,13 +183,17 @@ JavaScript
 <h3 align="center">☁️ Cloud & DevOps</h3>
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws,jenkins,bash"/>
+
 </p>
 
 <h3 align="center">🌐 Web Development</h3>
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
+
 </p>
 
 <h3 align="center">📈 Digital Marketing</h3>
@@ -355,59 +393,51 @@ Currently developing practical skills in:
 <table align="center">
 
 <tr>
-<td>
 
+<td>
 ☑️ Strengthen Linux skills
-
 </td>
 
 <td>
-
 ☑️ Learn Git & GitHub deeply
-
 </td>
+
 </tr>
 
 <tr>
-<td>
 
+<td>
 ☑️ Build Cloud Computing projects
-
 </td>
 
 <td>
-
 ☑️ Learn Docker & CI/CD
-
 </td>
+
 </tr>
 
 <tr>
-<td>
 
+<td>
 ☑️ Build professional websites
-
 </td>
 
 <td>
-
 ☑️ Improve SEO & Digital Marketing
-
 </td>
+
 </tr>
 
 <tr>
-<td>
 
+<td>
 ☑️ Build a strong GitHub portfolio
-
 </td>
 
 <td>
-
 ☑️ Get industry experience
-
 </td>
+
 </tr>
 
 </table>
@@ -423,11 +453,15 @@ Currently developing practical skills in:
 <p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
+
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 </p>
@@ -435,19 +469,23 @@ Currently developing practical skills in:
 ---
 
 <!-- =====================================================
-     FOOTER
+     🔥 PREMIUM FOOTER
 ===================================================== -->
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:2563eb,50:1e3a8a,100:020617&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:38BDF8,35:2563EB,70:1e3a8a,100:020617&section=footer"/>
 
 </p>
 
-<h3 align="center">
-  🚀 Learn • Build • Create • Improve
-</h3>
+<h2 align="center">
+
+🚀 Learn • Build • Create • Improve
+
+</h2>
 
 <p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
+
+⭐ <b>Thanks for visiting my GitHub profile!</b>
+
 </p>
