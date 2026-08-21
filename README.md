@@ -349,41 +349,40 @@ Currently developing practical skills in:
 </p>
 
 ---
-
 <!-- =====================================================
-     GITHUB STATS
+     📊 GITHUB ANALYTICS
 ===================================================== -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=020617&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA"/>
-
+  <img
+    src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=020617&ring=38BDF8&fire=2563EB&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
 <!-- =====================================================
-     GITHUB TROPHIES
+     🏆 GITHUB ACHIEVEMENTS
 ===================================================== -->
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
-
----
-
 <!-- =====================================================
      GOALS
 ===================================================== -->
